@@ -8,6 +8,11 @@ Mailgun is an email automation service provided by Rackspace. It offers a comple
 
 ## Instructions
 
+  1. Create an account:
+  ```
+  https://signup.mailgun.com/new/signup
+  ```
+
   1. In order to run mailgun, you need to clone this repo, and then create a .env with:
 ```
 api_key= "XXxxxxXXXXxxxxxXXXXX"
